@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @jkpbrenn
+- 👋 Hi, I’m Jack Brennan
 - 👀 I’m interested in scripting languages that can help engineers process large amount of data
-- 🌱 I’m currently learning mechanical, aerospace, and computer engineering
+- 🌱 I’m currently learning mechanical and Aerospace Engineering
+- 
 - 💞️ I’m looking to collaborate on anything!
 - 📫 You can reach me by contacting me for my personal email!
 
